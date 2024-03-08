@@ -1,4 +1,7 @@
 # adaptive2040
-gp2040 adaptive controller
 
-uses https://gitlab.com/recursivenomad/ki-lime-pi-pico
+![render](/res/render-top.png)
+
+Pi Pico expansion board for use with [GP2040-CE](https://gp2040-ce.info/)
+
+Uses https://gitlab.com/recursivenomad/ki-lime-pi-pico
