@@ -29,3 +29,5 @@ fp-lib-table
 # Exported BOM files
 *.xml
 *.csv
+
+*moff*
