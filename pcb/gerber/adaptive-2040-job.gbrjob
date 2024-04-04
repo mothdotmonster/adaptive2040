@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.0"
+      "Version": "8.0.1"
     },
-    "CreationDate": "2024-03-21T17:59:56-04:00"
+    "CreationDate": "2024-04-04T17:18:09-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "adaptive-2040",
       "GUID": "61646170-7469-4766-952d-323034302e6b",
-      "Revision": "1"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 54.71,

@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "adaptive2040")
-		(date "2024-03-21")
-		(rev "1")
+		(date "2024-04-04")
+		(rev "1.1")
 		(company "moth.monster")
 	)
 	(lib_symbols
@@ -2064,7 +2064,7 @@
 	)
 	(global_label "LEFT"
 		(shape input)
-		(at 173.99 74.93 180)
+		(at 173.99 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2074,7 +2074,7 @@
 		)
 		(uuid "188ca106-2a18-4754-87af-089b364f4980")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.7715 74.93 0)
+			(at 166.7715 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2416,7 +2416,7 @@
 	)
 	(global_label "RIGHT"
 		(shape input)
-		(at 96.52 109.22 0)
+		(at 96.52 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2426,7 +2426,7 @@
 		)
 		(uuid "7d5e4d25-9c5a-4b43-a34a-271569b46d1f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.9481 109.22 0)
+			(at 104.9481 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2636,7 +2636,7 @@
 	)
 	(global_label "LEFT"
 		(shape input)
-		(at 96.52 95.25 0)
+		(at 96.52 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2646,7 +2646,7 @@
 		)
 		(uuid "aa012010-136b-492f-8742-2a8de2f34e47")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.7385 95.25 0)
+			(at 103.7385 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2746,7 +2746,7 @@
 	)
 	(global_label "RIGHT"
 		(shape input)
-		(at 173.99 77.47 180)
+		(at 173.99 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2756,7 +2756,7 @@
 		)
 		(uuid "bf18f8bc-adec-48bd-99b6-8c3957145f99")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.5619 77.47 0)
+			(at 165.5619 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
